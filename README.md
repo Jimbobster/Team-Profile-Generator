@@ -38,9 +38,9 @@ When a user selects the intern option, then a user is prompted to enter the foll
 When a user decides to finish building their team, then they exit the application, and the HTML is generated into the output folder. If no output folder is present, then one is created.
 
 ## Mock-Up
-<li>The following image shows a mock up of the sample team.html appearance and functionality : 
+<li>The following image shows a mock up of the sample team.html appearance and functionality : ![My-Team](https://github.com/Jimbobster/Team-Profile-Generator/assets/146639118/9784d5aa-c50e-46b8-a186-01fb51c1f385)
 
-<li>THe URL of the repository containing the code : https://github.com/Jimbobster/Team-Profile-Generator
+<li>The URL of the repository containing the code : https://github.com/Jimbobster/Team-Profile-Generator
 
 ## Credits
 Tests run using : [Jest package](https://www.npmjs.com/package/jest)
